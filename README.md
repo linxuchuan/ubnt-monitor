@@ -69,9 +69,9 @@
 
 ## 📥 安装指南
 
-### 从 App Store 安装（推荐）
+### 从 App Store 安装
 
-> 即将上架，敬请期待
+> 目前仅支持自行编译安装。App Store 版本如有需求欢迎提交 Issue 反馈。
 
 ### 自行编译安装
 
@@ -126,11 +126,7 @@
 
 ## 📸 截图
 
-| 模式选择 | 设备列表 | 设备详情 |
-|---------|---------|---------|
-| ![Mode Selection](Screenshots/mode-selection.png) | ![Device List](Screenshots/device-list.png) | ![Device Detail](Screenshots/device-detail.png) |
-
-> 截图即将添加
+> 应用截图将在发布后添加。欢迎提交 PR 补充截图！
 
 ---
 

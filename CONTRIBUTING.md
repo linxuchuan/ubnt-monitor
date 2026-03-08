@@ -135,7 +135,7 @@ git push origin feature/your-feature-name
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/ubnt-monitor.git
+git clone https://github.com/linxuchuan/ubnt-monitor.git
 cd ubnt-monitor
 
 # 打开项目
