@@ -27,10 +27,12 @@ UBNT Monitor 让你可以随时随地监控和管理你的 UniFi 网络设备：
 
 ## 📸 应用截图
 
+> 以下截图中的敏感信息（IP 地址、MAC 地址、API Key 等）已做打码处理
+
 | 设备列表 | 设备详情 | 设置页面 |
 |:--------:|:--------:|:--------:|
 | ![设备列表](Screenshots/device-list.png) | ![设备详情](Screenshots/device-detail.png) | ![设置页面](Screenshots/settings.png) |
-| 云端设备列表 | 设备详细信息 | 连接模式设置 |
+| **云端设备列表** - 查看所有 UniFi 设备状态 | **设备详情** - 查看固件版本、IP、MAC 等详细信息 | **设置页面** - 配置云端/局域网连接模式 |
 
 ---
 

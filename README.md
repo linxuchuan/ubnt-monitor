@@ -126,10 +126,12 @@
 
 ## 📸 截图
 
+> 以下截图中的敏感信息（IP 地址、MAC 地址、API Key 等）已做打码处理
+
 | 设备列表 | 设备详情 | 设置页面 |
 |:--------:|:--------:|:--------:|
 | ![Device List](Screenshots/device-list.png) | ![Device Detail](Screenshots/device-detail.png) | ![Settings](Screenshots/settings.png) |
-| 云端设备列表 | 设备详细信息 | 连接模式设置 |
+| **云端设备列表** - 查看所有 UniFi 设备状态 | **设备详情** - 查看固件版本、IP、MAC 等详细信息 | **设置页面** - 配置云端/局域网连接模式 |
 
 ---
 
