@@ -126,7 +126,10 @@
 
 ## 📸 截图
 
-> 应用截图将在发布后添加。欢迎提交 PR 补充截图！
+| 设备列表 | 设备详情 | 设置页面 |
+|:--------:|:--------:|:--------:|
+| ![Device List](Screenshots/device-list.png) | ![Device Detail](Screenshots/device-detail.png) | ![Settings](Screenshots/settings.png) |
+| 云端设备列表 | 设备详细信息 | 连接模式设置 |
 
 ---
 
